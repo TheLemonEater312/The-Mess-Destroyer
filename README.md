@@ -52,3 +52,14 @@ The planned software includes:
 ## Project Goal
 
 To create a compact, practical, and intelligent device that makes workspace organization easier through computer vision and automation.
+
+## Images of the schematic and pcb
+
+<img width="693" height="685" alt="Screenshot 2026-11-18 194331" src="https://github.com/user-attachments/assets/5122ddf0-4dd1-4cc2-bb0c-35f9c64751d8" />
+
+<img width="615" height="760" alt="Screenshot 2026-11-18 194325" src="https://github.com/user-attachments/assets/3a371590-8b69-431a-adea-5c75d6d49b18" />
+
+<img width="1168" height="741" alt="Screenshot 2026-11-18 194259" src="https://github.com/user-attachments/assets/ffc1378c-90be-48ea-a37c-506c393ca2e1" />
+
+<img width="1070" height="757" alt="Screenshot 2026-11-18 194317" src="https://github.com/user-attachments/assets/57541731-2af5-46b8-b8e5-2915491367e3" />
+
